@@ -1,0 +1,143 @@
+[
+    {
+        "term": "Aceitação dos Termos", 
+        "html": [
+            "<p>Ao contratar os serviços da JSONIC, você concorda com os termos e condições descritos neste documento, bem como assume a responsabilidade pelo seu cumprimento. Recomendamos a leitura cuidadosa de todas as cláusulas antes de prosseguir.</p>"
+        ]
+    },
+    {
+        "term": "Descrição dos Serviços", 
+        "html": [
+            "<p>Oferecemos os seguintes serviços:</p>",
+            "<li>Desenvolvimento web, aplicativos e softwares personalizados.</li>",
+            "<li>Hospedagem de serviços e sites na web.</li>",
+            "<li>Criação de emails personalizados (corporativo).</li>",
+            "<li>Design de layouts de sites, aplicativos e softwares.</li>",
+            "<li>Otimização de SEO.</li>",
+            "<li>Suporte técnico e manutenção.</li>",
+            "<li>Consultoria e implementação de soluções digitais.</li>",
+            "<p>Serviços não </p>"
+        ]
+    },
+    {
+        "term": "Responsabilidades e Direitos do Cliente", 
+        "html": [
+            "<p>O cliente é responsável por:</p>",
+            "<li>Fornecer todas as informações e materiais necessários para o desenvolvimento do projeto no prazo acordado. <b>Caso o cliente não forneça os materiais requisitados dentro do prazo estipulado, o site será desenvolvido com imagens genéricas selecionadas por nossa equipe e textos provisórios criados por nós, que poderão ser substituídos pelo cliente posteriormente.</b></li>",
+            "<li>Garantir que os conteúdos fornecidos não infrinjam direitos de terceiros, incluindo direitos autorais e marcas registradas.</li>",
+            "<li>Testar e aprovar o produto entregue dentro do prazo estabelecido.</li>",
+            "<li>Solicitações de alterações ou funcionalidades adicionais que não estejam previstas no escopo original poderão ser cobradas à parte.</li>",
+            "<li>Manter uma comunicação eficiente durante o projeto, respondendo às solicitações de nossa equipe dentro dos prazos estabelecidos para evitar atrasos.</li>",
+            "<li>Caso o cliente opte por hospedar o site em um ambiente de sua escolha, ele é responsável por fornecer os acessos necessários para configuração e suporte. Problemas decorrentes de provedores externos não são de nossa responsabilidade.</li>",
+            "<li>Garantir que quaisquer dados fornecidos ou coletados pelo projeto estejam em conformidade com as leis aplicáveis, incluindo a Lei Geral de Proteção de Dados (LGPD). Não nos responsabilizamos por problemas legais decorrentes do uso inadequado de dados pelo cliente.</li>",
+            "<li>Realizar os pagamentos conforme estipulado no contrato. O não cumprimento pode resultar na suspensão do serviço até que a situação seja regularizada.</li>",
+            "<li>Após a entrega do projeto, o cliente é responsável por manter backups de seus dados e informações. Oferecemos suporte e manutenção somente dentro dos limites acordados.</li>",
+            "<li>Não é permitido modificar o código, design ou estrutura do projeto entregue sem nosso consentimento prévio, salvo se acordado em contrato. Alterações indevidas podem anular garantias ou suporte técnico.</li>",
+            "<li>Caso o projeto entregue inclua sistemas ou funcionalidades específicas, o cliente é responsável por participar de qualquer treinamento ou leitura de manuais oferecidos. A má utilização do produto não será nossa responsabilidade.</li>",
+            "<li>O cliente é integralmente responsável pelo conteúdo publicado no site, aplicativo ou software entregue, incluindo quaisquer informações falsas, enganosas ou ofensivas.</li>"
+        ]
+    },
+    {
+        "term": "Propriedade Intelectual", 
+        "html": [
+            "<p>Todos os códigos, designs e conteúdos criados por nós permanecem de nossa propriedade até que o pagamento total seja efetuado.</p>",
+            "<p>Algumas partes do projeto podem incluir ferramentas ou softwares de terceiros, utilizados sob licenças específicas. O cliente concorda em respeitar os termos de uso desses softwares e reconhece que quaisquer problemas ou limitações relacionados a eles são de responsabilidade dos respectivos provedores.</p>",
+            "<p>A JSONIC reserva-se o direito de incluir capturas de tela, descrições e outros detalhes do projeto entregue em seu portfólio, salvo acordo em contrário firmado previamente com o cliente.</p>",
+            "<p>Após o pagamento integral, os direitos de uso e propriedade serão transferidos ao cliente, salvo acordo em contrário.</p>"
+        ]
+    },
+    {
+        "term": "Prazos e Alterações", 
+        "html": [
+            "<p>Os prazos para entrega do projeto serão definidos em contrato, levando em consideração o escopo e a complexidade do serviço solicitado.</p>",
+            "<p>Em situações em que for possível concluir o projeto antes do prazo acordado, o cliente será informado. No entanto, a entrega antecipada não será obrigatória.</p>",
+            "<p>A comunicação entre a JSONIC e o cliente deverá ocorrer por meios oficiais, como e-mail ou outras plataformas acordadas. O cliente deverá responder às solicitações de nossa equipe dentro do prazo máximo de 2 (dois) dias úteis. A ausência de resposta dentro do prazo poderá impactar os cronogramas e acarretar ajustes nos prazos de entrega.</p>",
+            "<p>Os prazos poderão ser ajustados em casos de problemas graves ou imprevistos que comprometam o andamento do projeto, como:",
+            "<li>Catástrofes naturais.</li>",
+            "<li>Falhas técnicas ou indisponibilidade de infraestrutura que não sejam de nossa responsabilidade.</li>",
+            "<li>Problemas de saúde graves na equipe de desenvolvimento.</li>",
+            "<li>Interrupções no fornecimento de serviços essenciais, como energia elétrica ou internet.</li>",
+            "<p>Em caso de alterações no prazo devido a qualquer motivo mencionado anteriormente, o cliente será comunicado com a maior antecedência possível.</p>",
+            "<p>Caso haja feriados durante a semana em que o projeto está sendo executado, o prazo poderá ser ajustado proporcionalmente à quantidade de dias úteis reduzidos.</p>",
+            "<p>Caso o cliente demore excessivamente para fornecer os materiais requisitados, resultando em uma extensão significativa do prazo inicial, reservamo-nos o direito de cobrar uma taxa adicional para compensar o impacto no cronograma e a readequação dos recursos necessários para a conclusão do projeto.</p>",
+            "<p>Solicitações de mudanças no escopo do projeto poderão resultar em alterações no prazo de entrega, que serão discutidas e acordadas previamente entre ambas as partes.</p>",
+            "<p>Qualquer ajuste nos prazos será formalizado por escrito, seja por e-mail, aditivo contratual ou outro meio oficial de comunicação.</p>",
+            "<p>Não nos responsabilizamos por atrasos causados por fatores externos que fujam ao nosso controle, como:",
+            "<li>Mudanças nas regulamentações legais aplicáveis ao projeto.</li>",
+            "<li>Falhas nos serviços de terceiros contratados pelo cliente, como provedores de hospedagem.</li>",
+            "<li>Problemas técnicos em plataformas externas utilizadas no desenvolvimento.</li>",
+            "<p>Solicitações de alterações após a conclusão do projeto podem ser cobradas à parte.</p>",
+            "<p>Solicitações de alterações ou revisões após a entrega do projeto serão consideradas como novos serviços e cobradas conforme orçamento acordado entre as partes.</p>"
+        ]
+    },
+    {
+        "term": "Pagamentos", 
+        "html": [
+            "<p>Os valores e as formas de pagamento serão detalhados no contrato de cada projeto.</p>",
+            "<p>Solicitações de reuniões adicionais ou serviços que extrapolem o escopo definido em contrato poderão ser cobradas à parte, com aviso prévio e valores a serem definidos de acordo com a complexidade e o tempo demandado.</p>",
+            "<p>Custos adicionais, como aquisição de domínios, licenças de software, bancos de imagens ou outros serviços terceirizados, serão previamente informados e cobrados à parte.</p>",
+            "<p>Pagamentos atrasados podem acarretar a suspensão do serviço até a regularização.</p>",
+            "<p>Em caso de atraso no pagamento, será aplicada uma multa de 2% sobre o valor devido e juros de 2% ao mês, conforme previsto nos artigos <a href='https://www.jusbrasil.com.br/topicos/10706050/artigo-394-da-lei-n-10406-de-10-de-janeiro-de-2002' target='_blank'>394</a> e <a href='https://www.jusbrasil.com.br/topicos/10706017/artigo-395-da-lei-n-10406-de-10-de-janeiro-de-2002' target='_blank'>395</a> (Lei nº 10.406/2002) do Código Civil Brasileiro e no artigo 52, parágrafo 1º, do Código de Defesa do Consumidor (<a href='https://modeloinicial.com.br/lei/CDC/codigo-defesa-consumidor/art-52' target='_blank'>Lei nº 8.078/1990</a>). Essas condições serão previamente acordadas em contrato.</p>",
+            "<p>Alguns projetos podem ser divididos em etapas, com pagamentos proporcionais a cada entrega. Por exemplo:</p>",
+            "<li>50% no início do projeto para garantir os custos iniciais e agendamento.</li>",
+            "<li>50% restantes na entrega final do projeto.</li>",
+            "<p>Se ocorrer cancelamento após o início, será cobrado o valor proporcional ao trabalho já realizado. Não haverá reembolso de pagamentos já efetuados para etapas concluídas.</p>",
+            "<p>Revisões ou modificações solicitadas após a aprovação do projeto podem ser cobradas como um serviço adicional.</p>",
+            "<p>Caso o cliente deseje funcionalidades não previstas no contrato, será elaborado um orçamento à parte.</p>",
+            "<p>A entrega completa do projeto e a transferência de direitos de uso e propriedade ocorrerão apenas após a quitação total do valor contratado.</p>",
+            "<p>Aceitamos pagamentos via [transferência bancária, Pix, cartão de crédito ou outro método definido no contrato].</p>",
+            "<p>O cliente será responsável por quaisquer taxas de processamento de pagamento (por exemplo, taxas de cartão de crédito).</p>",
+            "<p>Emitiremos nota fiscal ou recibo, conforme legislação vigente, para todos os pagamentos realizados.</p>",
+            "<p>O cliente deve informar o pagamento (quando feito via transferência ou Pix) e enviar comprovante para validação e atualização de status.</p>",
+            "<p>Serviços de manutenção, suporte ou outros planos recorrentes devem ser pagos antecipadamente, conforme estipulado em contrato. O não pagamento poderá levar à interrupção imediata do serviço.</p>"
+        ]
+    },
+    {
+        "term": "Backup e Segurança", 
+        "html": [
+            "<p>Durante o desenvolvimento, nossa equipe mantém cópias de segurança do projeto em andamento. Após a entrega, a responsabilidade por realizar backups regulares do site, aplicativo ou software entregue será exclusivamente do cliente.<br><b>Observação:</b> Caso o cliente opte por um de nossos planos de manutenção, realizaremos backups periódicos conforme estipulado no contrato de manutenção.</p>",
+            "<p>Se o cliente optar por hospedar o projeto em sua própria infraestrutura ou em provedores externos, nossa responsabilidade será limitada à entrega do projeto e à configuração inicial, conforme especificado no contrato. Após a entrega, quaisquer problemas relacionados à hospedagem externa não são de nossa responsabilidade.</p>",
+            "<p>Para projetos hospedados em nossa infraestrutura, implementamos boas práticas de segurança e atualizações básicas de sistema. No entanto, não nos responsabilizamos por ataques ou vulnerabilidades imprevistas, salvo nos casos em que o cliente tenha contratado um plano de manutenção que inclua monitoramento de segurança.</p>",
+            "<p>Para ambientes de hospedagem externos, o cliente é responsável por garantir a segurança de seus servidores, incluindo atualizações, configurações de firewall e proteção contra ataques.</p>",
+            "<p>Após a entrega do projeto, o suporte técnico e atualizações estarão disponíveis apenas para clientes que contratarem nossos planos de manutenção. Problemas decorrentes de má administração do cliente, provedores externos ou modificações indevidas não estão cobertos.</p>",
+            "<p>A integridade e proteção de dados armazenados no site ou sistema é de responsabilidade do cliente após a entrega. Oferecemos orientação inicial para configuração de políticas de privacidade e coleta de dados, mas a gestão contínua é responsabilidade do cliente.<br><b>Observação:</b> Se o cliente contratar nossa hospedagem, implementaremos backups básicos do ambiente de produção, mas a restauração de dados dependerá da disponibilidade e qualidade dos backups.</p>",
+            "<p>Não nos responsabilizamos por perdas de dados, interrupções de serviço ou falhas relacionadas a decisões de hospedagem ou infraestrutura fora de nossa gestão. Recomendamos que o cliente realize backups regulares independentemente do provedor de hospedagem escolhido.</p>",
+            "<p>Durante o desenvolvimento, forneceremos credenciais de acesso iniciais. Recomendamos que o cliente altere as senhas após a entrega para garantir maior segurança.</p>",
+            "<p>Após a conclusão e entrega do projeto, não mantemos cópias de dados ou backups nos nossos sistemas, salvo contrato específico de manutenção ou suporte.</p>",
+            "<p>Recomendamos que o cliente mantenha o sistema atualizado para proteger contra vulnerabilidades. Se o cliente optar por não contratar nossos serviços de manutenção, será de sua responsabilidade realizar essas atualizações. Falhas ou problemas causados por falta de atualizações regulares não serão de nossa responsabilidade.</p>",
+            "<p>O cliente deve manter suas credenciais de acesso seguras. Não nos responsabilizamos por problemas decorrentes do uso indevido ou vazamento dessas informações por parte do cliente.</p>",
+            "<p>Não garantimos proteção absoluta contra ataques externos (ex.: hackers ou malwares) em ambientes fora do nosso controle, como hospedagens de terceiros ou configurações alteradas pelo cliente.</p>",
+            "<p>O cliente é responsável por garantir que o projeto entregue esteja em conformidade com a Lei Geral de Proteção de Dados (LGPD) e outras legislações aplicáveis. A JSONIC não se responsabiliza por violações resultantes de dados fornecidos, coletados ou gerenciados pelo cliente.</p>",
+            "<p>Nossos serviços são fornecidos 'como estão', sem garantias explícitas ou implícitas quanto à adequação a um propósito específico ou desempenho livre de falhas. Não nos responsabilizamos por danos diretos, indiretos, incidentais ou consequenciais resultantes do uso ou impossibilidade de uso do produto ou serviço fornecido, exceto nos casos previstos por lei.</p>"
+        ]
+    },
+    {
+        "term": "Privacidade e Confidencialidade", 
+        "html": [
+            "<p>Respeitamos a privacidade de nossos clientes e não compartilharemos informações confidenciais sem permissão.</p>"
+        ]
+    },
+    {
+        "term": "Rescisão", 
+        "html": [
+            "<p>O cliente pode solicitar a rescisão do contrato a qualquer momento, mediante aviso prévio por escrito com no mínimo 1 dia de antecedência.</p>",
+            "<p>Em caso de rescisão antes da conclusão do projeto, será cobrado o valor proporcional aos serviços já realizados, incluindo custos administrativos e horas de trabalho dedicadas até a data da rescisão.</p>",
+            "<p>Valores pagos antecipadamente para etapas não iniciadas poderão ser reembolsados, descontando-se eventuais taxas administrativas e custos já incorridos.</p>",
+            "<p>A empresa pode rescindir o contrato nas seguintes situações:</p>",
+            "<li>Falta de pagamento por parte do cliente, após notificação formal e um prazo de regularização de 7 dias.</li>",
+            "<li>Descumprimento pelo cliente das obrigações estabelecidas no contrato, como o fornecimento de informações ou materiais necessários para o andamento do projeto.</li>",
+            "<li>Uso inadequado ou ilícito dos produtos ou serviços fornecidos pela empresa.</li>",
+            "<p>Em caso de rescisão pela empresa, será cobrado o valor proporcional aos serviços já realizados, e quaisquer valores devidos pelo cliente deverão ser quitados antes da entrega de materiais relacionados ao projeto.</p>",
+            "<p>Quaisquer direitos de propriedade intelectual sobre materiais ou produtos desenvolvidos pela empresa permanecerão sob sua posse até que o pagamento integral seja efetuado.</p>",
+            "<p>Dados ou arquivos do cliente em posse da empresa poderão ser fornecidos mediante solicitação formal, desde que não estejam vinculados a valores pendentes.</p>",
+            "<p>A empresa não se responsabiliza por perdas de dados ou interrupções causadas pela rescisão, salvo acordo prévio entre as partes.</p>",
+            "<p>O encerramento completo do contrato, incluindo a liquidação de quaisquer obrigações financeiras, será efetivado em até 7 dias úteis após a confirmação da rescisão por ambas as partes.</p>"
+        ]
+    },
+    {
+        "term": "Alterações nos Termos de Serviço", 
+        "html": [
+            "<p>Reservamo-nos o direito de atualizar ou modificar estes termos a qualquer momento. A versão atualizada estará disponível em nosso site.</p>"
+        ]
+    }
+]
