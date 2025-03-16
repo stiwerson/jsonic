@@ -7,123 +7,117 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos</loc>
+    <loc>https://jsonic.com.br/servicos/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/web</loc>
+    <loc>https://jsonic.com.br/servicos/web/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/app</loc>
+    <loc>https://jsonic.com.br/servicos/app/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/seo</loc>
+    <loc>https://jsonic.com.br/servicos/seo/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/email</loc>
+    <loc>https://jsonic.com.br/servicos/email/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/seguranca</loc>
+    <loc>https://jsonic.com.br/servicos/seguranca/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/software</loc>
+    <loc>https://jsonic.com.br/servicos/software/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/design</loc>
+    <loc>https://jsonic.com.br/servicos/design/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/suporte</loc>
+    <loc>https://jsonic.com.br/servicos/suporte/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/api</loc>
+    <loc>https://jsonic.com.br/servicos/api/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/hospedagem</loc>
+    <loc>https://jsonic.com.br/servicos/hospedagem/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/automacoes</loc>
+    <loc>https://jsonic.com.br/servicos/automacoes/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/consultoria</loc>
+    <loc>https://jsonic.com.br/servicos/consultoria/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/servicos/gerenciamento</loc>
-    <lastmod>2025-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://jsonic.com.br/servicos/documentacao</loc>
+    <loc>https://jsonic.com.br/servicos/gerenciamento/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/faq</loc>
+    <loc>https://jsonic.com.br/servicos/documentacao/</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jsonic.com.br/faq/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/contato</loc>
+    <loc>https://jsonic.com.br/contato/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/termos-de-servico</loc>
+    <loc>https://jsonic.com.br/termos-de-servico/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://jsonic.com.br/sobre</loc>
+    <loc>https://jsonic.com.br/sobre/</loc>
     <lastmod>2025-01-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jsonic.com.br/404</loc>
-    <lastmod>2025-01-03</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.1</priority>
   </url>
 </urlset>
